@@ -1,4 +1,4 @@
-#graph-embeddings
+##graph-embeddings
 
 Implementation of graph representation learning algorithms
 
